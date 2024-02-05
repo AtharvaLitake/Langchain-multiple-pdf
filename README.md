@@ -8,9 +8,11 @@ This application allows users to perform conversational question-answering on PD
 - **Vector Embedding:** Generate vector embeddings from the text chunks using Google's generative AI and store them using FAISS.
 - **Conversational QA:** Ask questions and get detailed answers based on the provided context.
 <img width="571" alt="multiple pdfs" src="https://github.com/AtharvaLitake/Langchain-multiple-pdf/assets/112816126/1bdcb907-f706-4f17-b2ff-f712069fa37c">
+<br>
+<br>
+<img width="571" alt="multiple_pdf1" src="https://github.com/AtharvaLitake/Langchain-multiple-pdf/assets/112816126/23994925-b8d7-4b37-b35e-cb0f47b1bfc0">
 
-## Se<img width="571" alt="multiple_pdf1" src="https://github.com/AtharvaLitake/Langchain-multiple-pdf/assets/112816126/23994925-b8d7-4b37-b35e-cb0f47b1bfc0">
-tup
+## Settup
 
 1. Clone the repository:
 
